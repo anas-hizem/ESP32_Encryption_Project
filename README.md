@@ -70,15 +70,6 @@ Les messages sont chiffrés à l'aide de l'algorithme AES-128 en mode CBC (Ciphe
 - **Message envoyé (chiffré)** : `FC 50 59 23 61 4C 9A 64 78 7E B3 AD 1A 56 49 B3`
 - **Message déchiffré** : `Hello, ESP32!`
 
-## Contribution
-
-Si vous souhaitez contribuer à ce projet, veuillez suivre les étapes suivantes :
-
-1. Fork ce dépôt.
-2. Créez une branche pour votre fonctionnalité (`git checkout -b feature/ma-fonctionnalite`).
-3. Faites vos modifications, puis validez-les (`git commit -am 'Ajout d'une nouvelle fonctionnalité'`).
-4. Poussez vos modifications vers votre fork (`git push origin feature/ma-fonctionnalite`).
-5. Ouvrez une **Pull Request** pour discuter de vos modifications.
 
 ## Auteurs
 
